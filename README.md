@@ -2,10 +2,8 @@
 
 ## About Me
 
-I'm a passionate Machine Learning Engineer with expertise in developing and deploying machine learning models. With 2+ years of experience, I have worked on various projects that leverage data to drive decision-making and automation.
+Hello! I'm a dedicated and enthusiastic Machine Learning Engineer with a passion for leveraging data to drive impactful insights and solutions. With a solid foundation in mathematics, statistics, and computer science, I specialize in building robust machine learning models and deploying scalable AI solutions. My goal is to harness the power of machine learning to solve real-world problems and contribute to the advancement of technology.
 
-- 🔭 I’m currently working on a NLP project 'Language Translation' from English to Swahili
-- 🌱 I’m currently learning automating ML model building and deployment using CI/CD pipeline
 - 👯 I’m looking to collaborate on NLP projects.
 - 💬 Ask me about Python and Modular Programming
 - 📫 How to reach me: odhiambostephen057@gmail.com
@@ -36,9 +34,10 @@ I'm a passionate Machine Learning Engineer with expertise in developing and depl
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=grey)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white&labelColor=grey)
-
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F0C101?style=flat&logo=huggingface&logoColor=white&labelColor=grey)
 
 
 ## Projects
@@ -58,6 +57,11 @@ Description: Built an NLP model for sentiment analysis on X data.This applicatio
 ### [Project 4: Web Scrapping](https://github.com/steve601/bookingswebscrap)
 Description: Navigated through different sections of a booking website,then extracted useful data for further analysis.
 - **Technologies** BeautifulSoup,Selenium,Pandas
+
+## Certifications
+
+- **Certification 1**: [Data Science Practitioner], [IBM]
+- **Certification 2**: [Data Science with Python], [National Research Fund,Kenya]
 
 ## GitHub Stats
 
