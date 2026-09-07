@@ -100,18 +100,21 @@ I build intelligent systems at the intersection of machine learning, software en
 - **Features**: Repository context persistence, stateful multi-turn conversations, code-aware analysis
 - **Repository**: [codebase-Understanding-agent](https://github.com/steve601/codebase-Understanding-agent)
 
-### 📈 **AI Data Analyst**
-**Autonomous agent that ingests, cleans, analyzes, and generates reports from datasets**
+### 🚀 **Production ML with MLflow & Docker**
+**End-to-end ML project demonstrating industry-standard MLOps practices and containerization**
 
-- **Problem**: Data analysis requires multiple specialized steps; automation accelerates exploratory analysis
+- **Problem**: ML models need reproducible training, experiment tracking, versioning, and containerized deployment
 - **Technical Approach**:
-  - Modular agent architecture: ingestion → cleaning → analysis → visualization → reporting
-  - Each agent handles specialized task (outlier detection, missing value handling, statistical analysis)
-  - Groq LLM for fast report generation
-  - Automated visualization (histograms, heatmaps, pairplots)
-- **Stack**: Streamlit, Pandas, Seaborn, Matplotlib, Groq LLM
-- **Workflow**: CSV/Excel upload → automated pipeline → interactive visualizations + AI report
-- **Repository**: [AI_DataAnalyst](https://github.com/steve601/AI_DataAnalyst)
+  - Data preprocessing and feature engineering pipeline
+  - MLflow experiment tracking for hyperparameter tuning and model versioning
+  - Multiple model variants trained and compared (metrics logged systematically)
+  - Docker containerization for reproducible environments across development/production
+  - Model artifacts versioned and stored in MLflow registry
+- **Architecture**: Python training pipeline → MLflow tracking server → Docker image → AWS EC2 deployment ready
+- **DevOps**: Dockerfile, requirements management, environment reproducibility, CloudHub integration
+- **Stack**: Python, Pandas/Scikit-learn, MLflow, Docker, AWS
+- **Key Learning**: Demonstrates the gap between Jupyter notebooks and production ML systems
+- **Repository**: [mlprojectwithMlfow_and_Docker](https://github.com/steve601/mlprojectwithMlfow_and_Docker)
 
 ---
 
@@ -168,9 +171,8 @@ I focus on building systems that work in production, not prototypes:
 |----------|------------------|
 | **Agentic AI** | [PromptHire Interview Platform](https://github.com/steve601/AI_interview_simulation_platform) · [Goal Planner](https://github.com/steve601/agenticGoalPlanner) |
 | **RAG Systems** | [ChatKU Campus Assistant](https://github.com/steve601/chatKURAG_app) · [Codebase Agent](https://github.com/steve601/codebase-Understanding-agent) |
-| **ML Pipelines** | [Fraud Detection](https://github.com/steve601/FraudlentTransactionPrediction) |
+| **ML Pipelines & MLOps** | [Fraud Detection](https://github.com/steve601/FraudlentTransactionPrediction) · [MLflow + Docker](https://github.com/steve601/mlprojectwithMlfow_and_Docker) |
 | **Medical AI** | [Clinical Triage System](https://github.com/steve601/AIhealth-Triage_System) |
-| **Data Agents** | [AI Data Analyst](https://github.com/steve601/AI_DataAnalyst) |
 
 ---
 
